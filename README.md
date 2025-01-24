@@ -7,5 +7,15 @@ To analyze the performance of ABC Supermarket and identify areas for improvement
 ## Dataset used
 - <a href="https://github.com/shakiramarion/Data-Analysis-with-Power-BI/blob/main/supermarket_sales%20-%20Sheet1.csv">ABC Supermarket Dataset</a>
 
+## Research Questions
+- Which regions registered the most sales in the period?
+-	Which branch had the greatest rate of gross income?
+-	Which product had the most sales?
+-	Which product had the most cost?
+-	Which method of payment was popular in different regions?
+-	Which method of payment was popular across different gender?
+
+
+
 
 
