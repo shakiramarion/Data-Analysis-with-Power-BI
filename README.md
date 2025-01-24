@@ -15,6 +15,8 @@ To analyze the performance of ABC Supermarket and identify areas for improvement
 -	Which method of payment was popular in different regions?
 -	Which method of payment was popular across different gender?
 
+## Dashboard Interaction
+- <a href=""
 
 
 
