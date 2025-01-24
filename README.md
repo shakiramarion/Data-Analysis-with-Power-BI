@@ -1,4 +1,7 @@
 # Analyzing the Sales Performance of ABC Supermarket
 ## Project Objective
+To analyze the performance of ABC Supermarket and identify areas for improvement.
 
-This project focuses on analyzing the sales performance of ABC Supermarket using a dataset of 1,000 transactions from three branches. It examines key metrics such as sales trends by region, gross income, product sales performance, and customer payment preferences. The analysis highlights areas of strength, such as high sales in the Naypyitaw region and strong performance in Food and Beverages, while also identifying opportunities for improvement, such as cost optimization and customer engagement. Based on the findings, the project provides strategic recommendations, including targeted promotions, cost reduction initiatives, enhanced customer loyalty programs, and expanding the supermarket’s online presence to drive future growth.
+## Dataset used
+
+
