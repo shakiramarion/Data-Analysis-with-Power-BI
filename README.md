@@ -16,7 +16,15 @@ To analyze the performance of ABC Supermarket and identify areas for improvement
 -	Which method of payment was popular across different gender?
 
 ## Dashboard Interaction
-- <a href=""
+- <a href="https://github.com/shakiramarion/Data-Analysis-with-Power-BI/blob/main/MARION%20SHISIA%20POWER%20BI%20PROJECT.pdf">View Dashboard</a>
+
+## Steps Followed
+- Load the data into PowerQuery.
+- Cleaned the data by handling missing and null values and removing duplicates.
+- Performed Analysis.
+- Answered the Research Questions.
+- Performed Visualizations using Power BI.
+- Prepared an interactive Power BI Dashboard from the visualizations and included slicers with connections to the relevant visuals. 
 
 
 
